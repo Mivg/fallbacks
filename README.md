@@ -6,7 +6,7 @@ and sequence repetitions, identifying them as fallback mechanisms under uncertai
 more advanced, they shift towards more complex fallback behaviors.
 
 For details about our experiments and findings using Llama 2 and 3, OLMo, and Pythia models across various settings, 
-please see our [paper](https://arxiv.com).
+please see our [paper](https://arxiv.org/abs/2407.06071).
 
 <p align="center">
   <img src="fallbacks-1.png" alt="Fallback Behaviors" width="500"/>
