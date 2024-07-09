@@ -38,9 +38,9 @@ If you find our work useful, please cite our paper as follows:
 
 ```bibtex
 @article{ivgi2024fallbacks,
-  title={From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty},
+  title={From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty}, 
   author={Maor Ivgi and Ori Yoran and Jonathan Berant and Mor Geva},
-  journal={arXiv:2024:99999},
   year={2024},
-  url={ARXIV_LINK}
+  journal={arXiv:2407.06071},
+  url={https://arxiv.org/abs/2407.06071}, 
 }
