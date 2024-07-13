@@ -22,7 +22,7 @@ We will upload the setup instructions soon.
 
 ## Datasets
 
-We will provide links to the datasets soon.
+The data for the different experiments is available in the [data](data/README.md) directory. It will be uploaded to HuggingFace hub as well soon.
 
 ## Generate and Analyze Generations from the Model
 
