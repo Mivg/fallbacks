@@ -16,9 +16,9 @@ please see our [paper](https://arxiv.org/abs/2407.06071).
 
 ## Data
 The data as used in the experiments presented in the paper can be found in the following paths:
-- [TriviaFacts](data/hq_manual_easy_qampary_questions.jsonl) where each like contains the prompt as the key and the list of answers as a value
-- [QAMPARI](data/qampari_rephrased_questions.txt) where the answers can be found [here](data/qampari_questions.jsonl) with the respective lines as question to answer dict.
-- [FakeQAMPARI](data/qampari_repharsed_unsolvable.txt) which is a simple txt file with the rephrased unanswerable questions
+- [TriviaFacts](data/trivia_facts.jsonl) where each like contains the prompt as the key and the list of answers as a value
+- [QAMPARI](data/qampari_rephrased.jsonl) where the answers can be found  with the respective lines as question to answer dict.
+- [FakeQAMPARI](data/fake_qampari.jsonl) which is a simple json file with the rephrased unanswerable questions.
 - [BioGeneration](data/open_ended/topics.jsonl) where each line in the jsonl contains the topic, the popularity level and other metadata taken from [Min et al., 2023](https://github.com/shmsw25/FActScore)
 
 ## Installation
